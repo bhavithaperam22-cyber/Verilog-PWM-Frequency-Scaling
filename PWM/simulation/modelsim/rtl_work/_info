@@ -1,0 +1,107 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/bhavi/Downloads/t1a_fs_pwm (1)/t1a_fs_pwm/simulation/modelsim
+vfrequency_scaling
+Z1 !s110 1759931544
+!i10b 1
+!s100 c7g@TgR3E0a4b@O3[hVO;2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ii2Hn70QSjU@<lj1a1km7`3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1759927506
+8C:/Users/bhavi/Downloads/t1a_fs_pwm (1)/t1a_fs_pwm/code/frequency_scaling.v
+FC:/Users/bhavi/Downloads/t1a_fs_pwm (1)/t1a_fs_pwm/code/frequency_scaling.v
+!i122 1
+L0 2 21
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1759931544.000000
+!s107 C:/Users/bhavi/Downloads/t1a_fs_pwm (1)/t1a_fs_pwm/code/frequency_scaling.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/bhavi/Downloads/t1a_fs_pwm (1)/t1a_fs_pwm/code|C:/Users/bhavi/Downloads/t1a_fs_pwm (1)/t1a_fs_pwm/code/frequency_scaling.v|
+!i113 1
+Z6 o-vlog01compat -work work
+Z7 !s92 -vlog01compat -work work {+incdir+C:/Users/bhavi/Downloads/t1a_fs_pwm (1)/t1a_fs_pwm/code}
+Z8 tCvgOpt 0
+vpwm_generator
+R1
+!i10b 1
+!s100 AOQlVFglL@>W<W5@FGJ_G3
+R2
+I2e=@Lgn5^Q2^fSSZlD`b03
+R3
+R0
+w1759931509
+8C:/Users/bhavi/Downloads/t1a_fs_pwm (1)/t1a_fs_pwm/code/pwm_generator.v
+FC:/Users/bhavi/Downloads/t1a_fs_pwm (1)/t1a_fs_pwm/code/pwm_generator.v
+!i122 0
+L0 2 27
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/bhavi/Downloads/t1a_fs_pwm (1)/t1a_fs_pwm/code/pwm_generator.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/bhavi/Downloads/t1a_fs_pwm (1)/t1a_fs_pwm/code|C:/Users/bhavi/Downloads/t1a_fs_pwm (1)/t1a_fs_pwm/code/pwm_generator.v|
+!i113 1
+R6
+R7
+R8
+vt1a_fs_pwm_bdf
+R1
+!i10b 1
+!s100 Bd4W;W:D0@k_fU9[QiK`>0
+R2
+I`c`gmdJBkLYo18ad?L8?i0
+R3
+R0
+w1759923368
+8C:/Users/bhavi/Downloads/t1a_fs_pwm (1)/t1a_fs_pwm/t1a_fs_pwm_bdf.v
+FC:/Users/bhavi/Downloads/t1a_fs_pwm (1)/t1a_fs_pwm/t1a_fs_pwm_bdf.v
+!i122 2
+L0 20 35
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/bhavi/Downloads/t1a_fs_pwm (1)/t1a_fs_pwm/t1a_fs_pwm_bdf.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/bhavi/Downloads/t1a_fs_pwm (1)/t1a_fs_pwm|C:/Users/bhavi/Downloads/t1a_fs_pwm (1)/t1a_fs_pwm/t1a_fs_pwm_bdf.v|
+!i113 1
+R6
+!s92 -vlog01compat -work work {+incdir+C:/Users/bhavi/Downloads/t1a_fs_pwm (1)/t1a_fs_pwm}
+R8
+vtb
+R1
+!i10b 1
+!s100 >YM?AV23cO_g9bDz@3jNk2
+R2
+I0L=JR@3j8RGS9IbmNI_kJ3
+R3
+R0
+w1759921262
+8C:/Users/bhavi/Downloads/t1a_fs_pwm (1)/t1a_fs_pwm/.test/tb.v
+FC:/Users/bhavi/Downloads/t1a_fs_pwm (1)/t1a_fs_pwm/.test/tb.v
+!i122 3
+L0 4 101
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/bhavi/Downloads/t1a_fs_pwm (1)/t1a_fs_pwm/.test/tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/bhavi/Downloads/t1a_fs_pwm (1)/t1a_fs_pwm/.test|C:/Users/bhavi/Downloads/t1a_fs_pwm (1)/t1a_fs_pwm/.test/tb.v|
+!i113 1
+R6
+!s92 -vlog01compat -work work {+incdir+C:/Users/bhavi/Downloads/t1a_fs_pwm (1)/t1a_fs_pwm/.test}
+R8
